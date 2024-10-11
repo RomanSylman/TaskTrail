@@ -16,9 +16,5 @@ export default {
     "/app.config.{js,ts,mjs}",
   ],
   plugins: [],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
 }
 
